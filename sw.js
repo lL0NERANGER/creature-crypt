@@ -1,9 +1,9 @@
 const CACHE_NAME = 'creature-crypt-v1';
 const urlsToCache = [
     '/',
-    '/index.html',
+    './index.html',
     '/manifest.json',
-    '/hexagon-background.png',
+    './hexagon-background.png',
     '/creature-crypt-logo.png',
     '/creature-crypt-icon-16.png',
     '/creature-crypt-icon-32.png',
